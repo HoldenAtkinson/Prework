@@ -1,0 +1,57 @@
+
+        .red-text {
+            color: red;
+        }
+
+        .blue-text {
+            color: blue;
+        }
+
+        .green-text {
+            color: green;
+        
+        }
+        .big-text {
+            font-size: 50px;
+        }
+        
+        .small-text{
+            font-size: 10px;
+         }
+
+         .center {
+            margin: auto;
+            width: 50%;
+            padding: 10px;
+            text-align: center;
+        }
+
+        h1 { 
+            padding: 5px 0;
+             text-align: center
+        }
+
+        .bold-text {
+            font-weight: bold;
+        }
+
+        .font-line {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .big-bold-text {
+            color: orange;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .styledFont {
+            color: green;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .pictureBorder { 
+            background-color: aquamarine;
+            border: 5px solid gold;
+             }
+  
